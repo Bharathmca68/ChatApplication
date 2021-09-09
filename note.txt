@@ -1,0 +1,13 @@
+https://medium.com/@phatdev/build-a-real-time-chat-application-with-websocket-socket-io-redis-and-docker-in-nestjs-499c2513c18
+
+reference: blog
+
+So, let’s restructure the src folder as figure 1.1 illustrates below.
+
+cmds to create a file structure automally
+
+>> nest g gateway message message-events
+
+>> nest g co message-events --no-spec
+
+>> 

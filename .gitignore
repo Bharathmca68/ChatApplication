@@ -1,0 +1,4 @@
+/chat-app/node_modules
+/chat-app/package-lock.json
+/chat-app/dist
+/chat-app/.env
